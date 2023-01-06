@@ -3,4 +3,3 @@ document.getElementById("startButton").addEventListener("click", function() {
     document.getElementById("questions").style.display = "block";
     }
 );
-
